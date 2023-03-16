@@ -1,0 +1,33 @@
+heading{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    color:rgb(96, 204, 28);
+    font-family: anticode;
+	background-image: url("bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 100px;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+button {
+	font-size:2rem;
+    font-family: akira expanded;
+	padding: 10px 20px;
+	border-radius: 50px;
+	background-color: #116eca;
+	color: rgb(175, 34, 144);
+	cursor:progress;
+}
